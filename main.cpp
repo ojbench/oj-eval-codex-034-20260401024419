@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <cctype>
 #include "skip_list.hpp"
 
 using namespace std;
